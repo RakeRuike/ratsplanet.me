@@ -1,1 +1,1 @@
-window.location="https://sparklechat.me/notice.html";
+window.location="https://sparklechat.me/decider.html";
